@@ -77,4 +77,6 @@ def main ():
     mostrarprestamos(usuario)
     mostrarcatalogo(biblioteca)
 
-main()    
+main()
+
+#modificación de prueba
